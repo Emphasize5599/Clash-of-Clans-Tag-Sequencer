@@ -1,6 +1,7 @@
 Clash of Clans Player Tag and Clan Tag Sequencer
 -------
 Use this tool to locate old players and clans, so that you can contribute to the game's history or save historical artifacts from destruction!**
+
 This is a [very primitive] tool written in Python. I have not determined if it works the same way today, but for the oldest accounts and clans from 14 June - 1 August 2012, it is 100% accurate.
 
 
@@ -39,4 +40,5 @@ Instagram: @bxns.coc
 CREDITS
 -----
 Credit is due to Jonas_V.N for this program's core functionality. His repo is private now, so I couldn't make a fork, but I had the project downloaded and decided to make it more useful for large operations.
+
 If you have any issues with this program, or want extra functionality like exporting dictionaries full of binary arrays that you want to see, feel free to make a fork and hack away at this. As for me, I will likely not be developing this any further. Enjoy!
