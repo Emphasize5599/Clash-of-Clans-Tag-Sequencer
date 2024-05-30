@@ -9,12 +9,12 @@ This is a [very primitive] tool written in Python. I have not determined if it w
 -------
 Supercell deletes accounts after 6 years of inactivity. This means Supercell can delete historically significant clans if there is no other account in the clan to which the deleted account can pass its Leader role. 
 
-THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell's Fan Content Policy.](https://www.supercell.com/fan-content-policy)
+THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This material is unofficial and is not endorsed, affiliated with, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell's Fan Content Policy.](https://www.supercell.com/fan-content-policy)
 
 REQUIREMENTS
 -------
 I would recommend an IDE (Integrated Development Environment) because it is the easiest to install and operate. You can also use it for activities other than this one.
-1. Install an IDE like VSCodium on your system (https://github.com/VSCodium/vscodium/releases)
+1. Install an IDE like [VSCodium](https://github.com/VSCodium/vscodium/releases) on your system.
 2. Make sure you have the stuff for Python installed in the IDE (a good IDE would prompt you when you try working with a .py file)
 
 RANGE_SEQUENCER.PY USAGE (most useful)
