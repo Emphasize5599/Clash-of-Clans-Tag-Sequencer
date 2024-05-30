@@ -5,7 +5,11 @@ Use this tool to locate old players and clans, so that you can contribute to the
 This is a [very primitive] tool written in Python. I have not determined if it works the same way today, but for the oldest accounts and clans from 14 June - 1 August 2012, it is 100% accurate.
 
 
-**Supercell deletes accounts after 6 years of inactivity. This means Supercell can delete historically significant clans if there is no other account in the clan to which the deleted account can pass its Leader role. THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. Using this tool as a way to obtain accounts is a violation of Supercell's TOS and is discouraged. This tool is in no way affiliated with or endorsed by Supercell. Use this tool at your own risk.
+**DISCLAIMER
+-------
+Supercell deletes accounts after 6 years of inactivity. This means Supercell can delete historically significant clans if there is no other account in the clan to which the deleted account can pass its Leader role. 
+
+THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see `Supercell's Fan Content Policy. <https://www.supercell.com/fan-content-policy.>`_
 
 REQUIREMENTS
 -------
