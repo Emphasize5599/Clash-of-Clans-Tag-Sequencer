@@ -9,7 +9,7 @@ This is a [very primitive] tool written in Python. I have not determined if it w
 -------
 Supercell deletes accounts after 6 years of inactivity. This means Supercell can delete historically significant clans if there is no other account in the clan to which the deleted account can pass its Leader role. 
 
-THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see `Supercell's Fan Content Policy. <https://www.supercell.com/fan-content-policy.>`_
+THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell's Fan Content Policy.](https://www.supercell.com/fan-content-policy)
 
 REQUIREMENTS
 -------
