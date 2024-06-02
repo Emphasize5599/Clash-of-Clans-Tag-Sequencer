@@ -39,7 +39,7 @@ In an IDE:
 
 CONTACT
 -----
-Instagram: @bxns.coc
+Instagram: [@bxns.coc](https://www.instagram.com/bxns.coc/)
 
 CREDITS
 -----
