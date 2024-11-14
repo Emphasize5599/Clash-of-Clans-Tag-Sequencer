@@ -36,7 +36,3 @@ In an IDE:
 5. You will see a string of numbers like 0, 0, 0, 0, 0, 0, 0, 0 but with real numbers in it.
 6. Convert to a useful number. Ex: 0, 0, 0, 0, 0, 1, 1, 1 = (1 * (256^2)) + (1 * (256^1)) + (1) = 65,793.
 7. What does the number mean? Well, if a player tag ever resolved to this binary, then it would be the 65793rd account, but the binary array is made-up, so it wouldn't.
-
-CONTACT
------
-Instagram: [@bxns.coc](https://www.instagram.com/bxns.coc/)
