@@ -40,9 +40,3 @@ In an IDE:
 CONTACT
 -----
 Instagram: [@bxns.coc](https://www.instagram.com/bxns.coc/)
-
-CREDITS
------
-Credit is due to Jonas_V.N for this program's core functionality. His repo is private now, so I couldn't make a fork, but I had the project downloaded and decided to make it more useful for large operations.
-
-If you have any issues with this program, or want extra functionality like exporting dictionaries full of binary arrays that you want to see, feel free to make a fork and hack away at this. As for me, I will likely not be developing this any further. Enjoy!
